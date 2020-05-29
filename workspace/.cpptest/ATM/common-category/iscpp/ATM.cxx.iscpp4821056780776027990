@@ -1,0 +1,6 @@
+fileName=/home/brian/Desktop/CI_Course/ATM/ATM.cxx
+isCpp=
+compilerOpts=-I/home/brian/parasoft/cpptest/engine/runtime/include -g -Iinclude -c -DPARASOFT_CPPTEST
+compilerId=gcc_7-64
+workingDir=/home/brian/Desktop/CI_Course/ATM
+advancedOptionsHash=1237154733

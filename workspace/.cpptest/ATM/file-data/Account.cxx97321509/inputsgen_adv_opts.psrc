@@ -1,0 +1,8 @@
+xharness.routineManager symbol_file=* command=setProperty property=ignored value=true
+xharness.routineManager symbol_file=/home/brian/Desktop/CI_Course/ATM/Account.cxx command=setProperty property=ignored value=false
+xharness.routineManager symbol_file=/home/brian/Desktop/CI_Course/ATM/include/Account.hxx command=setProperty property=ignored value=false
+xharness.variableManager symbol_file=* command=setProperty property=ignored value=true
+xharness.variableManager symbol_file=/home/brian/Desktop/CI_Course/ATM/Account.cxx command=setProperty property=ignored value=false
+xharness.variableManager symbol_file=/home/brian/Desktop/CI_Course/ATM/include/Account.hxx command=setProperty property=ignored value=false
+pscom.tmpDir /home/brian/Desktop/CI_Course/workspace/.cpptest/ATM/file-data/Account.cxx97321509/tmp
+edg.multibyte_chars_in_source_enabled TRUE
