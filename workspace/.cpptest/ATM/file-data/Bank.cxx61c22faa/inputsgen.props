@@ -1,6 +1,0 @@
-#Properties of inputs generation process
-#Fri May 29 16:14:18 PDT 2020
-cmdLine=/home/brian/parasoft/cpptest/engine/bin/xharness --native-options-start -I/home/brian/parasoft/cpptest/engine/runtime/include -g -Iinclude -c -DPARASOFT_CPPTEST --native-options-end --input\=/home/brian/Desktop/CI_Course/ATM/Bank.cxx --compiler-cfg-file\=/home/brian/parasoft/cpptest/engine/etc/compilers/gcc_7-64/cpp.psrc --preprocessorExecutable\=g++ --psrc\=/home/brian/parasoft/cpptest/engine/etc/xharness_features_testcases.psrc --errorThreshold\=es_discretionary_error --native-options-start -w --native-options-end --testcase-inputs-dir\=/home/brian/Desktop/CI_Course/workspace/.cpptest/ATM/file-data/Bank.cxx61c22faa/TestInputs --psrc\=/home/brian/Desktop/CI_Course/workspace/.cpptest/ATM/file-data/Bank.cxx61c22faa/inputsgen_adv_opts.psrc
-advOptsFileHash=-779471469
-incFilesHash=207209407
-contextFileTimestamp=1587383105000

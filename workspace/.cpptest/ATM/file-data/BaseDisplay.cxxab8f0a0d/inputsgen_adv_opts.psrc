@@ -1,8 +1,0 @@
-xharness.routineManager symbol_file=* command=setProperty property=ignored value=true
-xharness.routineManager symbol_file=/home/brian/Desktop/CI_Course/ATM/BaseDisplay.cxx command=setProperty property=ignored value=false
-xharness.routineManager symbol_file=/home/brian/Desktop/CI_Course/ATM/include/BaseDisplay.hxx command=setProperty property=ignored value=false
-xharness.variableManager symbol_file=* command=setProperty property=ignored value=true
-xharness.variableManager symbol_file=/home/brian/Desktop/CI_Course/ATM/BaseDisplay.cxx command=setProperty property=ignored value=false
-xharness.variableManager symbol_file=/home/brian/Desktop/CI_Course/ATM/include/BaseDisplay.hxx command=setProperty property=ignored value=false
-pscom.tmpDir /home/brian/Desktop/CI_Course/workspace/.cpptest/ATM/file-data/BaseDisplay.cxxab8f0a0d/tmp
-edg.multibyte_chars_in_source_enabled TRUE

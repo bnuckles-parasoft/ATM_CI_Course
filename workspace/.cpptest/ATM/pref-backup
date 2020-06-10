@@ -1,5 +1,0 @@
-#Preferences Backup
-#Fri May 29 16:14:16 PDT 2020
-com.parasoft.xtest.checkers.api.cpp.options.ode_options_dir=${resource_loc\:/ATM/ATM/cpptestscan.bdf}
-com.parasoft.xtest.checkers.api.cpp.options.advanced.options=
-com.parasoft.xtest.checkers.api.cpp.options.compiler.family.linux.x86=gcc_7-64
